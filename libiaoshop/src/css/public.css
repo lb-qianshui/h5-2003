@@ -1,0 +1,51 @@
+@charset "utf-8";
+#site-nav{
+    width: auto;
+    position: relative;
+    background: #f2f2f2;
+    border-bottom: 1px solid #e5e5e5;
+}
+#site-nav .sn-con{
+    position: relative;
+    height: 32px;
+    color: #999;
+    width:1230px;
+    margin:0 auto;
+}
+.login-info{
+    width:218px;
+    top:0;
+    left:0;
+    font-size: 12px;
+    text-align: center;
+    line-height: 32px;
+}
+.login-info .sn-login{
+    padding: 0 10px 0 20px;
+}
+#site-nav a{
+    color: #999;
+}
+#site-nav a:hover{
+    color:#FF0036;
+}
+
+.sn-quick-menu{
+    position: absolute;
+    top:0;
+    right:0;
+    width:507px;
+    font-size:12px;
+    line-height: 32px;
+}
+.sn-quick-menu li{
+    float: left;
+    text-align: center;
+}
+.menu-hd{
+    padding:0 14px 0 10px;
+}
+.sn-cart,.sn-mobile,.sn-home{
+    padding:0 10px;
+}
+
